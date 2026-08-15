@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://372142040-ai.github.io/RECI-TEST/sitemap.xml
